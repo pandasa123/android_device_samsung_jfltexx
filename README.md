@@ -20,3 +20,5 @@ Release Date | April 2013
 
 
 ![Galaxy S4](http://wiki.cyanogenmod.org/images/thumb/6/6e/Jflte.png/321px-Jflte.png "Galaxy S4")
+
+Modified for AOSP 5.0 by AntaresOne@XDA-Developers
